@@ -5,6 +5,7 @@ import os
 import shutil
 from pascal_voc_writer import Writer
 
+# Rasmlar joylashgan folder nomi
 folder_name = 'images'
 
 print(os.listdir('images'))
@@ -24,7 +25,7 @@ for img in os.listdir(folder_name):
                   f"/media/rasul/766A9E0A6A9DC6F1/TASS/face_recognition/txt_files/{new_file.name[7:]}")
 
 
-# Implementing global variable
+# .txt fayllar joylashgan folder nomi
 folder_txt = 'txt_files'
 
 for txt in os.listdir(folder_txt):
