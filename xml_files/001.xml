@@ -1,0 +1,27 @@
+<annotation>
+    <folder>txt_files</folder>
+    <filename>001.txt</filename>
+    <path>/media/rasul/766A9E0A6A9DC6F1/TASS/face_recognition/txt_files/001.txt</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin> 258</xmin>
+            <ymin> 529</ymin>
+            <xmax> 294</xmax>
+            <ymax> 493 
+</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,87 @@
+<annotation>
+    <folder>txt_files</folder>
+    <filename>004.txt</filename>
+    <path>/media/rasul/766A9E0A6A9DC6F1/TASS/face_recognition/txt_files/004.txt</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin> 550</xmin>
+            <ymin> 189</ymin>
+            <xmax> 586</xmax>
+            <ymax> 153 
+</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin> 540</xmin>
+            <ymin> 319</ymin>
+            <xmax> 583</xmax>
+            <ymax> 275 
+</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin> 449</xmin>
+            <ymin> 112</ymin>
+            <xmax> 492</xmax>
+            <ymax> 69 
+</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin> 492</xmin>
+            <ymin> 88</ymin>
+            <xmax> 535</xmax>
+            <ymax> 45 
+</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin> 482</xmin>
+            <ymin> 1279</ymin>
+            <xmax> 526</xmax>
+            <ymax> 1236 
+</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin> 458</xmin>
+            <ymin> 650</ymin>
+            <xmax> 502</xmax>
+            <ymax> 607 
+</ymax>
+        </bndbox>
+    </object>
+</annotation>
