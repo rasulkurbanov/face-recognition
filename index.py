@@ -1,4 +1,3 @@
-from posixpath import curdir
 from PIL import Image, ImageDraw
 import face_recognition
 import sys
